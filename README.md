@@ -21,10 +21,15 @@ Python 🐍
 🚀 Como usar
 
   Execute o arquivo python 13.py.
+
   Insira seus dados: nome, idade, peso e altura.
+  
   Escolha se possui alguma condição de saúde.
+
   Clique em Calcular IMC para ver seu Índice de Massa Corporal.
+  
   Clique em Calcular Dieta para receber uma recomendação personalizada.
+  
   Para fechar o programa, clique em Finalizar APP.
 
 📌 Este é um projeto básico e pode ser expandido com novas funcionalidades no futuro!
