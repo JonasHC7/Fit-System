@@ -20,7 +20,7 @@ Python 🐍
 
 🚀 Como usar
 
-  Execute o arquivo python nome_do_arquivo.py.
+  Execute o arquivo python 13.py.
   Insira seus dados: nome, idade, peso e altura.
   Escolha se possui alguma condição de saúde.
   Clique em Calcular IMC para ver seu Índice de Massa Corporal.
